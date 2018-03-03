@@ -1,7 +1,7 @@
 package HelloWorld;
 
 public class HelloWorld {
-    public void helloWorld(String[] args){
+    public void helloWorld(){
         System.out.println("Hello World!");
     }
 }
